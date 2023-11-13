@@ -1,1 +1,5 @@
-f8ufihoi nighuiiuhd
+fef my_function(fruit):
+    for i in fruit:
+          print(i)
+list=["apple", "graphs", "mango"]
+my_function(fruit)
